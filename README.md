@@ -7,7 +7,7 @@ Este repositório apresenta uma landing page desenvolvida com HTML, CSS e JavaSc
 
 A proposta é demonstrar na prática a criação de uma página moderna, responsiva e com foco na apresentação clara de um projeto fictício.
 
-🔗 **Acesse a landing page no GitHub Pages**:  👉 [Clique aqui para visualizar](https://codingloria.github.io/landingPageMaisPraTI)
+🔗 **Acesse a landing page no GitHub Pages**:  👉 [Clique aqui para visualizar](https://codingloria.github.io/landingPageMaisPraTI/)
 
 ## 🎯 Objetivos da Landing Page:
 - Divulgar o projeto fictício.
